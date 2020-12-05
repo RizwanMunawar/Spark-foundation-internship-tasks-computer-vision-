@@ -20,6 +20,6 @@ Inside this repository I not added weights file so you need to download it from 
     <code>python yolo.py</code><br><Br>
 
 Facebook post <a href = "https://web.facebook.com/100039141699956/videos/390480528933334/">Link</a><br><Br>
-youtube video <a href = "https://www.youtube.com/watch?v=GvqqIjJQ1hk"<Link</a><bR><br> 
+youtube video <a href = "https://www.youtube.com/watch?v=GvqqIjJQ1hk">Link</a><bR><br> 
 
 
