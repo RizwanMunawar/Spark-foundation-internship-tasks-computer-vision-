@@ -21,5 +21,6 @@ Inside this repository I not added weights file so you need to download it from 
 
 Facebook post <a href = "https://web.facebook.com/100039141699956/videos/390480528933334/">Link</a><br><Br>
 youtube video <a href = "https://www.youtube.com/watch?v=GvqqIjJQ1hk">Link</a><bR><br> 
+  Linkedin Post <a href = "https://www.linkedin.com/posts/muhammadrizwanmunawar_thesparkfoundation-gripdec2020-machinelearning-activity-6740927772924899328-32B_">Link</a>
 
 
