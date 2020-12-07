@@ -8,4 +8,4 @@ if you have not installed anaconda navigator then you can download it and instal
 
 Facebook post: <a href = "https://web.facebook.com/100039141699956/videos/391845905463463/">link</a><br><br>
 Youtube Video: <a href = "https://youtu.be/TkbOopfn4UQ">Link</a><Br><br>
-Linkedin Post <a href = ""
+Linkedin Post <a href = "https://www.linkedin.com/posts/muhammadrizwanmunawar_thesparkfoundation-thesparksfoundation-internship2020-activity-6741665819794661376-2OU7">link</a>
