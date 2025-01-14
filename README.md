@@ -1,5 +1,8 @@
-#### Spark Foundation Internship in Computer Vision &amp; IOT Field.<Br>
-##### #Python #opencv
+# Spark Foundation Internship in Computer Vision &amp; IOT Field.
+
+
+## Python, OpenCV
+
 All internship Tasks of Computer vision and IOT field.
 
 
